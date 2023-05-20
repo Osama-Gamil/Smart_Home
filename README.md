@@ -1,4 +1,4 @@
-# Smart_Home#Exciting to share that I just completed a smart home project and I'm thrilled to share the details with you all.
+#Exciting to share that I just completed a smart home project and I'm thrilled to share the details with you all.
 
 The project involved Automated Air Conditioning and Smart Lock System with Lighting Control System via mobile application(Bluetooth Connection).
 
